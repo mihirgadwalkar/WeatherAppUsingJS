@@ -84,3 +84,15 @@ h1.temp {
   top: 0;
   left: 20px;
 }
+
+footer {
+  background: #bdbddd;
+  padding: 5vh 10vh;
+  text-align: center;
+  position: relative;
+}
+
+small {
+  opacity: 1;
+  font-weight: 600;
+}
